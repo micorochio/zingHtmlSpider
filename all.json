@@ -1,0 +1,1375 @@
+[
+  {
+    "chTitle": "## 第01章：信息收集",
+    "arts": [
+      {
+        "fileName": "1x01_acccheck.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Acccheck-for-information-gathering-and-password-attack.html"
+      },
+      {
+        "fileName": "1x02_ace-voip.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Information-Collection-aec-voip.html"
+      },
+      {
+        "fileName": "1x03_Amap.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Information-Collection-Amap.html"
+      },
+      {
+        "fileName": "1x04_Automater.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Information-Collection-Automater.html"
+      },
+      {
+        "fileName": "1x05_bing-ip2hosts.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-gathering-bing-ip2hosts.html"
+      },
+      {
+        "fileName": "1x06_braa.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-braa.html"
+      },
+      {
+        "fileName": "1x07_CaseFile.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Information-Collection-CaseFile.html"
+      },
+      {
+        "fileName": "1x08_CDPSnarf.md",
+        "fileLink": "https://www.hackfun.org/sectools/Information-Collection-CDPSnarf.html"
+      },
+      {
+        "fileName": "1x09_cisco-torch.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Information-Gathering-Vulnerability-Analysis-Exploitation-Tools-CDPSnarf.html"
+      },
+      {
+        "fileName": "1x10_Cookie_Cadger.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-Cookie-Cadger.html"
+      },
+      {
+        "fileName": "1x11_copy-router-config.md",
+        "fileLink": "https://www.hackfun.org/sectools/The-copy-router-config-for-Kali-Linux-information-collection.html"
+      },
+      {
+        "fileName": "1x12_DMitry.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Information-Collection-DMitry.html"
+      },
+      {
+        "fileName": "1x13_dnmap.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Information-Collection-dnmap.html"
+      },
+      {
+        "fileName": "1x14_dnsenum.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-dnsenum.html"
+      },
+      {
+        "fileName": "1x15_dnsmap.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-dnsmap.html"
+      },
+      {
+        "fileName": "1x16_DNSRecon.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-Information-Collection-DNSRecon.html"
+      },
+      {
+        "fileName": "1x17_dnstracer.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-dnstracer.html"
+      },
+      {
+        "fileName": "1x18_dnswalk.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-dnswalk.html"
+      },
+      {
+        "fileName": "1x19_DotDotPwn.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-DotDotPwn.html"
+      },
+      {
+        "fileName": "1x20_enum4linux.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-enum4linux.html"
+      },
+      {
+        "fileName": "1x21_enumIAX.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-enumIAX.html"
+      },
+      {
+        "fileName": "1x22_exploitdb.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/exploitdb_zh.html"
+      },
+      {
+        "fileName": "1x23_Fierce.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-Fierce.html"
+      },
+      {
+        "fileName": "1x24_Firewalk.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-Firewalk.html"
+      },
+      {
+        "fileName": "1x25_fragroute.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-fragroute.html"
+      },
+      {
+        "fileName": "1x26_fragrouter.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-fragrouter.html"
+      },
+      {
+        "fileName": "1x27_Ghost_Phisher.md",
+        "fileLink": "https://www.hackfun.org/sectools/Kali-Linux-information-collection-Ghost-Wireless-Attacks-Phisher.html"
+      },
+      {
+        "fileName": "1x28_GoLismero.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/golismero_zh.html"
+      },
+      {
+        "fileName": "1x29_goofile.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/goofile_zh.html"
+      },
+      {
+        "fileName": "1x30_hping3.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/hping3_zh.html"
+      },
+      {
+        "fileName": "1x31_InTrace.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/intrace_zh.html"
+      },
+      {
+        "fileName": "1x32_iSMTP.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ismtp_zh.html"
+      },
+      {
+        "fileName": "1x33_lbd.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/lbd_zh.html"
+      },
+      {
+        "fileName": "1x34_Maltego_Teeth.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/maltego-teeth_zh.html"
+      },
+      {
+        "fileName": "1x35_masscan.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/masscan_zh.html"
+      },
+      {
+        "fileName": "1x36_Metagoofil.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/metagoofil_zh.html"
+      },
+      {
+        "fileName": "1x37_Miranda.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/miranda_zh.html"
+      },
+      {
+        "fileName": "1x38_Nmap.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/nmap_zh.html"
+      },
+      {
+        "fileName": "1x39_ntop.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ntop_zh.html"
+      },
+      {
+        "fileName": "1x40_p0f.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/p0f_zh.html"
+      },
+      {
+        "fileName": "1x41_Parsero.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/parsero_zh.html"
+      },
+      {
+        "fileName": "1x42_Recon-ng.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/recon-ng_zh.html"
+      },
+      {
+        "fileName": "1x43_SET.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/set_zh.html"
+      },
+      {
+        "fileName": "1x44_smtp-user-enum.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/smtp-user-enum_zh.html"
+      },
+      {
+        "fileName": "1x45_snmpcheck.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/snmpcheck_zh.html"
+      },
+      {
+        "fileName": "1x46_sslcaudit.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sslcaudit_zh.html"
+      },
+      {
+        "fileName": "1x47_SSLsplit.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sslsplit_zh.html"
+      },
+      {
+        "fileName": "1x48_sslstrip.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sslstrip_zh.html"
+      },
+      {
+        "fileName": "1x49_SSLyze.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sslyze_zh.html"
+      },
+      {
+        "fileName": "1x50_THC-IPV6.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/thc-ipv6_zh.html"
+      },
+      {
+        "fileName": "1x51_theHarvester.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/theharvester_zh.html"
+      },
+      {
+        "fileName": "1x52_TLSSLed.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/tlssled_zh.html"
+      },
+      {
+        "fileName": "1x53_twofi.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/twofi_zh.html"
+      },
+      {
+        "fileName": "1x54_URLCrazy.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/urlcrazy_zh.html"
+      },
+      {
+        "fileName": "1x55_Wireshark.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wireshark_zh.html"
+      },
+      {
+        "fileName": "1x56_WOL-E.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wol-e_zh.html"
+      },
+      {
+        "fileName": "1x57_Xplico.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/xplico_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第02章：脆弱性分析",
+    "arts": [
+      {
+        "fileName": "2x01_BBQSQL.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bbqsql_zh.html"
+      },
+      {
+        "fileName": "2x02_BED.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bed_zh.html"
+      },
+      {
+        "fileName": "2x03_cisco-auditing-tool.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-auditing-tool_zh.html"
+      },
+      {
+        "fileName": "2x04_cisco-global-exploiter.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-global-exploiter_zh.html"
+      },
+      {
+        "fileName": "2x05_cisco-ocs.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-ocs_zh.html"
+      },
+      {
+        "fileName": "2x06_cisco-torch.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-torch_zh.html"
+      },
+      {
+        "fileName": "2x07_copy-router-config.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/copy-router-config_zh.html"
+      },
+      {
+        "fileName": "2x08_DBPwAudit.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dbpwaudit_zh.html"
+      },
+      {
+        "fileName": "2x09_Doona.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/doona_zh.html"
+      },
+      {
+        "fileName": "2x10_DotDotPwn.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dotdotpwn_zh.html"
+      },
+      {
+        "fileName": "2x11_Greenbone_Security_Assistant.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/greenbone-security-assistant_zh.html"
+      },
+      {
+        "fileName": "2x12_GSD.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/gsd_zh.html"
+      },
+      {
+        "fileName": "2x13_HexorBase.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/hexorbase_zh.html"
+      },
+      {
+        "fileName": "2x14_Inguma.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/inguma_zh.html"
+      },
+      {
+        "fileName": "2x15_jSQL.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/jsql_zh.html"
+      },
+      {
+        "fileName": "2x16_Lynis.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/lynis_zh.html"
+      },
+      {
+        "fileName": "2x17_Nmap.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/nmap_zh.html"
+      },
+      {
+        "fileName": "2x18_ohrwurm.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ohrwurm_zh.html"
+      },
+      {
+        "fileName": "2x19_openvas-administrator.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/openvas-administrator_zh.html"
+      },
+      {
+        "fileName": "2x20_openvas-cli.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/openvas-cli_zh.html"
+      },
+      {
+        "fileName": "2x21_openvas-manager.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/openvas-manager_zh.html"
+      },
+      {
+        "fileName": "2x22_openvas-scanner.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/openvas-scanner_zh.html"
+      },
+      {
+        "fileName": "2x23_Oscanner.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/oscanner_zh.html"
+      },
+      {
+        "fileName": "2x24_Powerfuzzer.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/powerfuzzer_zh.html"
+      },
+      {
+        "fileName": "2x25_sfuzz.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sfuzz_zh.html"
+      },
+      {
+        "fileName": "2x26_SidGuesser.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sidguesser_zh.html"
+      },
+      {
+        "fileName": "2x27_SIPArmyKnife.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/siparmyknife_zh.html"
+      },
+      {
+        "fileName": "2x28_sqlmap.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sqlmap_zh.html"
+      },
+      {
+        "fileName": "2x29_Sqlninja.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sqlninja_zh.html"
+      },
+      {
+        "fileName": "2x30_sqlsus.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sqlsus_zh.html"
+      },
+      {
+        "fileName": "2x31_THC-IPV6.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/thc-ipv6_zh.html"
+      },
+      {
+        "fileName": "2x32_tnscmd10g.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/tnscmd10g_zh.html"
+      },
+      {
+        "fileName": "2x33_unix-privesc-check.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/unix-privesc-check_zh.html"
+      },
+      {
+        "fileName": "2x34_Yersinia.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/yersinia_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第03章：利用工具",
+    "arts": [
+      {
+        "fileName": "3x01_Armitage.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/armitage_zh.html"
+      },
+      {
+        "fileName": "3x02_Backdoor_Factory.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/backdoor-factory_zh.html"
+      },
+      {
+        "fileName": "3x03_BeEF.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/beef-xss_zh.html"
+      },
+      {
+        "fileName": "3x04_cisco-auditing-tool.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-auditing-tool_zh.html"
+      },
+      {
+        "fileName": "3x05_cisco-global-exploiter.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-global-exploiter_zh.html"
+      },
+      {
+        "fileName": "3x06_cisco-ocs.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-ocs_zh.html"
+      },
+      {
+        "fileName": "3x07_cisco-torch.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-torch_zh.html"
+      },
+      {
+        "fileName": "3x08_crackle.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/crackle_zh.html"
+      },
+      {
+        "fileName": "3x09_jboss-autopwn.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/jboss-autopwn_zh.html"
+      },
+      {
+        "fileName": "3x10_Linux_Exploit_Suggester.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/linux-exploit-suggester_zh.html"
+      },
+      {
+        "fileName": "3x11_Maltego_Teeth.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/maltego-teeth_zh.html"
+      },
+      {
+        "fileName": "3x12_SET.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/set_zh.html"
+      },
+      {
+        "fileName": "3x13_ShellNoob.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/shellnoob_zh.html"
+      },
+      {
+        "fileName": "3x14_sqlmap.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sqlmap_zh.html"
+      },
+      {
+        "fileName": "3x15_THC-IPV6.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/thc-ipv6_zh.html"
+      },
+      {
+        "fileName": "3x16_Yersinia.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/yersinia_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第04章：无线攻击",
+    "arts": [
+      {
+        "fileName": "4x01_Aircrack-ng.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/aircrack-ng_zh.html"
+      },
+      {
+        "fileName": "4x02_Asleap.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/asleap_zh.html"
+      },
+      {
+        "fileName": "4x03_Bluelog.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bluelog_zh.html"
+      },
+      {
+        "fileName": "4x04_BlueMaho.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bluemaho_zh.html"
+      },
+      {
+        "fileName": "4x05_Bluepot.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bluepot_zh.html"
+      },
+      {
+        "fileName": "4x06_BlueRanger.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/blueranger_zh.html"
+      },
+      {
+        "fileName": "4x07_Bluesnarfer.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bluesnarfer_zh.html"
+      },
+      {
+        "fileName": "4x08_Bully.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bully_zh.html"
+      },
+      {
+        "fileName": "4x09_coWPAtty.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cowpatty_zh.html"
+      },
+      {
+        "fileName": "4x10_crackle.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/crackle_zh.html"
+      },
+      {
+        "fileName": "4x11_eapmd5pass.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/eapmd5pass_zh.html"
+      },
+      {
+        "fileName": "4x12_Fern_Wifi_Cracker.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/fern-wifi-cracker_zh.html"
+      },
+      {
+        "fileName": "4x13_Ghost_Phisher.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ghost-phisher_zh.html"
+      },
+      {
+        "fileName": "4x14_GISKismet.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/giskismet_zh.html"
+      },
+      {
+        "fileName": "4x15_Gqrx.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/gqrx_zh.html"
+      },
+      {
+        "fileName": "4x16_gr-scan.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/gr-scan_zh.html"
+      },
+      {
+        "fileName": "4x17_kalibrate-rtl.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/kalibrate-rtl_zh.html"
+      },
+      {
+        "fileName": "4x18_KillerBee.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/killerbee_zh.html"
+      },
+      {
+        "fileName": "4x19_Kismet.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/kismet_zh.html"
+      },
+      {
+        "fileName": "4x20_mdk3.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/mdk3_zh.html"
+      },
+      {
+        "fileName": "4x21_mfcuk.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/mfcuk_zh.html"
+      },
+      {
+        "fileName": "4x22_mfoc.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/mfoc_zh.html"
+      },
+      {
+        "fileName": "4x23_mfterm.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/mfterm_zh.html"
+      },
+      {
+        "fileName": "4x24_Multimon-NG.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/multimon-ng_zh.html"
+      },
+      {
+        "fileName": "4x25_PixieWPS.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/pixiewps_zh.html"
+      },
+      {
+        "fileName": "4x26_Reaver.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/reaver_zh.html"
+      },
+      {
+        "fileName": "4x27_redfang.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/redfang_zh.html"
+      },
+      {
+        "fileName": "4x28_RTLSDR_Scanner.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rtlsdr-scanner_zh.html"
+      },
+      {
+        "fileName": "4x29_Spooftooph.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/spooftooph_zh.html"
+      },
+      {
+        "fileName": "4x30_Wifi_Honey.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wifi-honey_zh.html"
+      },
+      {
+        "fileName": "4x31_Wifitap.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wifitap_zh.html"
+      },
+      {
+        "fileName": "4x32_Wifite.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wifite_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第05章：取证工具",
+    "arts": [
+      {
+        "fileName": "5x01_Binwalk.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/binwalk_zh.html"
+      },
+      {
+        "fileName": "5x02_bulk-extractor.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bulk-extractor_zh.html"
+      },
+      {
+        "fileName": "5x03_Capstone.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/capstone_zh.html"
+      },
+      {
+        "fileName": "5x04_chntpw.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/chntpw_zh.html"
+      },
+      {
+        "fileName": "5x05_Cuckoo.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cuckoo_zh.html"
+      },
+      {
+        "fileName": "5x06_dc3dd.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dc3dd_zh.html"
+      },
+      {
+        "fileName": "5x07_ddrescue.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ddrescue_zh.html"
+      },
+      {
+        "fileName": "5x08_DFF.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dff_zh.html"
+      },
+      {
+        "fileName": "5x09_diStorm3.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/distorm3_zh.html"
+      },
+      {
+        "fileName": "5x10_Dumpzilla.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dumpzilla_zh.html"
+      },
+      {
+        "fileName": "5x11_extundelete.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/extundelete_zh.html"
+      },
+      {
+        "fileName": "5x12_Foremost.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/foremost_zh.html"
+      },
+      {
+        "fileName": "5x13_Galleta.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/galleta_zh.html"
+      },
+      {
+        "fileName": "5x14_Guymager.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/guymager_zh.html"
+      },
+      {
+        "fileName": "5x15_iPhone_Backup_Analyzer.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/iphone-backup-analyzer_zh.html"
+      },
+      {
+        "fileName": "5x16_p0f.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/p0f_zh.html"
+      },
+      {
+        "fileName": "5x17_pdf-parser.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/pdf-parser_zh.html"
+      },
+      {
+        "fileName": "5x18_pdfid.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/pdfid_zh.html"
+      },
+      {
+        "fileName": "5x19_pdgmail.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/pdgmail_zh.html"
+      },
+      {
+        "fileName": "5x20_peepdf.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/peepdf_zh.html"
+      },
+      {
+        "fileName": "5x21_RegRipper.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/regripper_zh.html"
+      },
+      {
+        "fileName": "5x22_Volatility.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/volatility_zh.html"
+      },
+      {
+        "fileName": "5x23_Xplico.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/xplico_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第06章：Web应用程序",
+    "arts": [
+      {
+        "fileName": "6x01_apache-users.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/apache-users_zh.html"
+      },
+      {
+        "fileName": "6x02_Arachni.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/arachni_zh.html"
+      },
+      {
+        "fileName": "6x03_BBQSQL.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/bbqsql_zh.html"
+      },
+      {
+        "fileName": "6x04_BlindElephant.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/blindelephant_zh.html"
+      },
+      {
+        "fileName": "6x05_Burp_Suite.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/burpsuite_zh.html"
+      },
+      {
+        "fileName": "6x06_CutyCapt.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cutycapt_zh.html"
+      },
+      {
+        "fileName": "6x07_DAVTest.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/davtest_zh.html"
+      },
+      {
+        "fileName": "6x08_deblaze.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/deblaze_zh.html"
+      },
+      {
+        "fileName": "6x09_DIRB.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dirb_zh.html"
+      },
+      {
+        "fileName": "6x10_DirBuster.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dirbuster_zh.html"
+      },
+      {
+        "fileName": "6x11_fimap.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/fimap_zh.html"
+      },
+      {
+        "fileName": "6x12_FunkLoad.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/funkload_zh.html"
+      },
+      {
+        "fileName": "6x13_Grabber.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/grabber_zh.html"
+      },
+      {
+        "fileName": "6x14_jboss-autopwn.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/jboss-autopwn_zh.html"
+      },
+      {
+        "fileName": "6x15_joomscan.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/joomscan_zh.html"
+      },
+      {
+        "fileName": "6x16_jSQL.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/jsql_zh.html"
+      },
+      {
+        "fileName": "6x17_Maltego_Teeth.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/maltego-teeth_zh.html"
+      },
+      {
+        "fileName": "6x18_PadBuster.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/padbuster_zh.html"
+      },
+      {
+        "fileName": "6x19_Paros.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/paros_zh.html"
+      },
+      {
+        "fileName": "6x20_Parsero.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/parsero_zh.html"
+      },
+      {
+        "fileName": "6x21_plecost.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/plecost_zh.html"
+      },
+      {
+        "fileName": "6x22_Powerfuzzer.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/powerfuzzer_zh.html"
+      },
+      {
+        "fileName": "6x23_ProxyStrike.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/proxystrike_zh.html"
+      },
+      {
+        "fileName": "6x24_Recon-ng.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/recon-ng_zh.html"
+      },
+      {
+        "fileName": "6x25_Skipfish.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/skipfish_zh.html"
+      },
+      {
+        "fileName": "6x26_sqlmap.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sqlmap_zh.html"
+      },
+      {
+        "fileName": "6x27_Sqlninja.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sqlninja_zh.html"
+      },
+      {
+        "fileName": "6x28_sqlsus.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sqlsus_zh.html"
+      },
+      {
+        "fileName": "6x29_ua-tester.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ua-tester_zh.html"
+      },
+      {
+        "fileName": "6x30_Uniscan.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/uniscan_zh.html"
+      },
+      {
+        "fileName": "6x31_Vega.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/vega_zh.html"
+      },
+      {
+        "fileName": "6x32_w3af.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/w3af_zh.html"
+      },
+      {
+        "fileName": "6x33_WebScarab.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/webscarab_zh.html"
+      },
+      {
+        "fileName": "6x34_Webshag.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/webshag_zh.html"
+      },
+      {
+        "fileName": "6x35_WebSlayer.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/webslayer_zh.html"
+      },
+      {
+        "fileName": "6x36_WebSploit.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/websploit_zh.html"
+      },
+      {
+        "fileName": "6x37_Wfuzz.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wfuzz_zh.html"
+      },
+      {
+        "fileName": "6x38_WPScan.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wpscan_zh.html"
+      },
+      {
+        "fileName": "6x39_XSSer.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/xsser_zh.html"
+      },
+      {
+        "fileName": "6x40_zaproxy.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/zaproxy_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第07章：压力测试",
+    "arts": [
+      {
+        "fileName": "7x01_DHCPig.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dhcpig_zh.html"
+      },
+      {
+        "fileName": "7x02_FunkLoad.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/funkload_zh.html"
+      },
+      {
+        "fileName": "7x03_iaxflood.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/iaxflood_zh.html"
+      },
+      {
+        "fileName": "7x04_Inundator.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/inundator_zh.html"
+      },
+      {
+        "fileName": "7x05_inviteflood.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/inviteflood_zh.html"
+      },
+      {
+        "fileName": "7x06_ipv6-toolkit.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ipv6-toolkit_zh.html"
+      },
+      {
+        "fileName": "7x07_mdk3.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/mdk3_zh.html"
+      },
+      {
+        "fileName": "7x08_Reaver.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/reaver_zh.html"
+      },
+      {
+        "fileName": "7x09_rtpflood.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rtpflood_zh.html"
+      },
+      {
+        "fileName": "7x10_SlowHTTPTest.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/slowhttptest_zh.html"
+      },
+      {
+        "fileName": "7x11_t50.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/t50_zh.html"
+      },
+      {
+        "fileName": "7x12_Termineter.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/termineter_zh.html"
+      },
+      {
+        "fileName": "7x13_THC-IPV6.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/thc-ipv6_zh.html"
+      },
+      {
+        "fileName": "7x14_THC-SSL-DOS.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/thc-ssl-dos_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第08章：嗅探 & 欺骗",
+    "arts": [
+      {
+        "fileName": "8x01_Burp_Suite.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/burpsuite_zh.html"
+      },
+      {
+        "fileName": "8x02_DNSChef.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dnschef_zh.html"
+      },
+      {
+        "fileName": "8x03_fiked.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/fiked_zh.html"
+      },
+      {
+        "fileName": "8x04_hamster-sidejack.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/hamster-sidejack_zh.html"
+      },
+      {
+        "fileName": "8x05_HexInject.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/hexinject_zh.html"
+      },
+      {
+        "fileName": "8x06_iaxflood.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/iaxflood_zh.html"
+      },
+      {
+        "fileName": "8x07_inviteflood.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/inviteflood_zh.html"
+      },
+      {
+        "fileName": "8x08_iSMTP.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ismtp_zh.html"
+      },
+      {
+        "fileName": "8x09_isr-evilgrade.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/isr-evilgrade_zh.html"
+      },
+      {
+        "fileName": "8x10_mitmproxy.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/mitmproxy_zh.html"
+      },
+      {
+        "fileName": "8x11_ohrwurm.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ohrwurm_zh.html"
+      },
+      {
+        "fileName": "8x12_protos-sip.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/protos-sip_zh.html"
+      },
+      {
+        "fileName": "8x13_rebind.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rebind_zh.html"
+      },
+      {
+        "fileName": "8x14_responder.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/responder_zh.html"
+      },
+      {
+        "fileName": "8x15_rtpbreak.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rtpbreak_zh.html"
+      },
+      {
+        "fileName": "8x16_rtpinsertsound.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rtpinsertsound_zh.html"
+      },
+      {
+        "fileName": "8x17_rtpmixsound.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rtpmixsound_zh.html"
+      },
+      {
+        "fileName": "8x18_sctpscan.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sctpscan_zh.html"
+      },
+      {
+        "fileName": "8x19_SIPArmyKnife.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/siparmyknife_zh.html"
+      },
+      {
+        "fileName": "8x20_SIPp.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sipp_zh.html"
+      },
+      {
+        "fileName": "8x21_SIPVicious.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sipvicious_zh.html"
+      },
+      {
+        "fileName": "8x22_SniffJoke.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sniffjoke_zh.html"
+      },
+      {
+        "fileName": "8x23_SSLsplit.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sslsplit_zh.html"
+      },
+      {
+        "fileName": "8x24_sslstrip.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sslstrip_zh.html"
+      },
+      {
+        "fileName": "8x25_THC-IPV6.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/thc-ipv6_zh.html"
+      },
+      {
+        "fileName": "8x26_VoIPHopper.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/voiphopper_zh.html"
+      },
+      {
+        "fileName": "8x27_WebScarab.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/webscarab_zh.html"
+      },
+      {
+        "fileName": "8x28_Wifi_Honey.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wifi-honey_zh.html"
+      },
+      {
+        "fileName": "8x29_Wireshark.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wireshark_zh.html"
+      },
+      {
+        "fileName": "8x30_xspy.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/xspy_zh.html"
+      },
+      {
+        "fileName": "8x31_Yersinia.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/yersinia_zh.html"
+      },
+      {
+        "fileName": "8x32_zaproxy.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/zaproxy_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第9章：密码攻击",
+    "arts": [
+      {
+        "fileName": "9x01_acccheck.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/acccheck_zh.html"
+      },
+      {
+        "fileName": "9x02_Burp_Suite.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/burpsuite_zh.html"
+      },
+      {
+        "fileName": "9x03_CeWL.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cewl_zh.html"
+      },
+      {
+        "fileName": "9x04_chntpw.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/chntpw_zh.html"
+      },
+      {
+        "fileName": "9x05_cisco-auditing-tool.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cisco-auditing-tool_zh.html"
+      },
+      {
+        "fileName": "9x06_CmosPwd.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cmospwd_zh.html"
+      },
+      {
+        "fileName": "9x07_creddump.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/creddump_zh.html"
+      },
+      {
+        "fileName": "9x08_crunch.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/crunch_zh.html"
+      },
+      {
+        "fileName": "9x09_DBPwAudit.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dbpwaudit_zh.html"
+      },
+      {
+        "fileName": "9x10_findmyhash.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/findmyhash_zh.html"
+      },
+      {
+        "fileName": "9x11_gpp-decrypt.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/gpp-decrypt_zh.html"
+      },
+      {
+        "fileName": "9x12_hash-identifier.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/hash-identifier_zh.html"
+      },
+      {
+        "fileName": "9x13_HexorBase.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/hexorbase_zh.html"
+      },
+      {
+        "fileName": "9x14_THC-Hydra.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/hydra_zh.html"
+      },
+      {
+        "fileName": "9x15_John_the_Ripper.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/john_zh.html"
+      },
+      {
+        "fileName": "9x16_Johnny.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/johnny_zh.html"
+      },
+      {
+        "fileName": "9x17_keimpx.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/keimpx_zh.html"
+      },
+      {
+        "fileName": "9x18_Maltego_Teeth.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/maltego-teeth_zh.html"
+      },
+      {
+        "fileName": "9x19_Maskprocessor.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/maskprocessor_zh.html"
+      },
+      {
+        "fileName": "9x20_multiforcer.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/multiforcer_zh.html"
+      },
+      {
+        "fileName": "9x21_Ncrack.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ncrack_zh.html"
+      },
+      {
+        "fileName": "9x22_oclgausscrack.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/oclgausscrack_zh.html"
+      },
+      {
+        "fileName": "9x23_PACK.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/pack_zh.html"
+      },
+      {
+        "fileName": "9x24_patator.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/patator_zh.html"
+      },
+      {
+        "fileName": "9x25_phrasendrescher.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/phrasendrescher_zh.html"
+      },
+      {
+        "fileName": "9x26_polenum.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/polenum_zh.html"
+      },
+      {
+        "fileName": "9x27_RainbowCrack.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rainbowcrack_zh.html"
+      },
+      {
+        "fileName": "9x28_rcracki-mt.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rcracki-mt_zh.html"
+      },
+      {
+        "fileName": "9x29_RSMangler.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/rsmangler_zh.html"
+      },
+      {
+        "fileName": "9x30_SQLdict.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sqldict_zh.html"
+      },
+      {
+        "fileName": "9x31_Statsprocessor.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/statsprocessor_zh.html"
+      },
+      {
+        "fileName": "9x32_THC-pptp-bruter.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/thc-pptp-bruter_zh.html"
+      },
+      {
+        "fileName": "9x33_TrueCrack.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/truecrack_zh.html"
+      },
+      {
+        "fileName": "9x34_WebScarab.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/webscarab_zh.html"
+      },
+      {
+        "fileName": "9x35_wordlists.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/wordlists_zh.html"
+      },
+      {
+        "fileName": "9x36_zaproxy.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/zaproxy_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第10章：维持访问",
+    "arts": [
+      {
+        "fileName": "10x01_CryptCat.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cryptcat_zh.html"
+      },
+      {
+        "fileName": "10x02_Cymothoa.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cymothoa_zh.html"
+      },
+      {
+        "fileName": "10x03_dbd.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dbd_zh.html"
+      },
+      {
+        "fileName": "10x04_dns2tcp.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dns2tcp_zh.html"
+      },
+      {
+        "fileName": "10x05_http-tunnel.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/http-tunnel_zh.html"
+      },
+      {
+        "fileName": "10x06_HTTPTunnel.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/httptunnel_zh.html"
+      },
+      {
+        "fileName": "10x07_Intersect.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/intersect_zh.html"
+      },
+      {
+        "fileName": "10x08_Nishang.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/nishang_zh.html"
+      },
+      {
+        "fileName": "10x09_polenum.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/polenum_zh.html"
+      },
+      {
+        "fileName": "10x10_PowerSploit.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/powersploit_zh.html"
+      },
+      {
+        "fileName": "10x11_pwnat.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/pwnat_zh.html"
+      },
+      {
+        "fileName": "10x12_RidEnum.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ridenum_zh.html"
+      },
+      {
+        "fileName": "10x13_sbd.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sbd_zh.html"
+      },
+      {
+        "fileName": "10x14_U3-Pwn.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/u3-pwn_zh.html"
+      },
+      {
+        "fileName": "10x15_Webshells.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/webshells_zh.html"
+      },
+      {
+        "fileName": "10x16_Weevely.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/weevely_zh.html"
+      },
+      {
+        "fileName": "10x17_Winexe.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/winexe_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第11章：硬件攻击",
+    "arts": [
+      {
+        "fileName": "11x01_android-sdk.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/android-sdk_zh.html"
+      },
+      {
+        "fileName": "11x02_apktool.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/apktool_zh.html"
+      },
+      {
+        "fileName": "11x03_Arduino.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/arduino_zh.html"
+      },
+      {
+        "fileName": "11x04_dex2jar.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dex2jar_zh.html"
+      },
+      {
+        "fileName": "11x05_Sakis3G.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/sakis3g_zh.html"
+      },
+      {
+        "fileName": "11x06_smali.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/smali_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第12章：逆向工程",
+    "arts": [
+      {
+        "fileName": "12x01_apktool.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/apktool_zh.html"
+      },
+      {
+        "fileName": "12x02_dex2jar.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dex2jar_zh.html"
+      },
+      {
+        "fileName": "12x03_diStorm3.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/distorm3_zh.html"
+      },
+      {
+        "fileName": "12x04_edb-debugger.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/edb-debugger_zh.html"
+      },
+      {
+        "fileName": "12x05_jad.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/jad_zh.html"
+      },
+      {
+        "fileName": "12x06_javasnoop.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/javasnoop_zh.html"
+      },
+      {
+        "fileName": "12x07_JD-GUI.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/jd-gui_zh.html"
+      },
+      {
+        "fileName": "12x08_OllyDbg.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/ollydbg_zh.html"
+      },
+      {
+        "fileName": "12x09_smali.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/smali_zh.html"
+      },
+      {
+        "fileName": "12x10_Valgrind.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/valgrind_zh.html"
+      },
+      {
+        "fileName": "12x11_YARA.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/yara_zh.html"
+      }
+    ]
+  },
+  {
+    "chTitle": "## 第13章：报告工具",
+    "arts": [
+      {
+        "fileName": "13x01_CaseFile.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/casefile_zh.html"
+      },
+      {
+        "fileName": "13x02_CutyCapt.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/cutycapt_zh.html"
+      },
+      {
+        "fileName": "13x03_dos2unix.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dos2unix_zh.html"
+      },
+      {
+        "fileName": "13x04_Dradis.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/dradis_zh.html"
+      },
+      {
+        "fileName": "13x05_KeepNote.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/keepnote_zh.html"
+      },
+      {
+        "fileName": "13x06_MagicTree.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/magictree_zh.html"
+      },
+      {
+        "fileName": "13x07_Metagoofil.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/metagoofil_zh.html"
+      },
+      {
+        "fileName": "13x08_Nipper-ng.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/nipper-ng_zh.html"
+      },
+      {
+        "fileName": "13x09_pipal.md",
+        "fileLink": "https://www.hackfun.org/kali-tools/pipal_zh.html"
+      }
+    ]
+  }
+]
